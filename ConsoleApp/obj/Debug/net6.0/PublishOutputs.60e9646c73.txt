@@ -1,0 +1,5 @@
+C:\Mpahsis1\Feb27thjenkins\ConsoleApp\ConsoleApp\bin\Debug\net6.0\publish\ConsoleApp.exe
+C:\Mpahsis1\Feb27thjenkins\ConsoleApp\ConsoleApp\bin\Debug\net6.0\publish\ConsoleApp.dll
+C:\Mpahsis1\Feb27thjenkins\ConsoleApp\ConsoleApp\bin\Debug\net6.0\publish\ConsoleApp.deps.json
+C:\Mpahsis1\Feb27thjenkins\ConsoleApp\ConsoleApp\bin\Debug\net6.0\publish\ConsoleApp.runtimeconfig.json
+C:\Mpahsis1\Feb27thjenkins\ConsoleApp\ConsoleApp\bin\Debug\net6.0\publish\ConsoleApp.pdb
